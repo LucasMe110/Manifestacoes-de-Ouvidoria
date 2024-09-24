@@ -23,6 +23,7 @@ if (!require(ggplot2)) install.packages("ggplot2")
 ![Gráfico](grafico.png)
 
 
+
 ## Conclusão
 Este projeto apresenta uma análise visual do uso de telefone e internet em Florianópolis, permitindo uma compreensão mais clara das preferências dos cidadãos em relação às formas de manifestação.
 
